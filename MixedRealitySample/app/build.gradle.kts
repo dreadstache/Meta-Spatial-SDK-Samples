@@ -1,7 +1,7 @@
 // (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
 
 // Retrieve Meta Spatial SDK Version from "gradle.properties"
-val metaSpatialSdkVersion: String by project
+val metaSpatialSdkVersion=0.5.3
 
 plugins {
   id("com.android.application")
